@@ -1,13 +1,12 @@
 # Elevator Occupancy Management System
 
-A real-time system for monitoring and managing elevator occupancy.
+A simple elevator occupancy management system with real-time updates.
 
 ## Features
 
-- Real-time elevator occupancy monitoring
-- User authentication and authorization
-- Historical data analysis
-- Occupancy alerts and notifications
+- Monitor elevator occupancy
+- Add/remove passengers
+- Track
 
 ## Setup
 
